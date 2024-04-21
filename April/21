@@ -1,0 +1,6 @@
+void threeWayPartition(vector<int>& v,int a, int b)
+    {
+        // code here 
+        sort(v.begin(),v.end());
+        // return v;
+    }
